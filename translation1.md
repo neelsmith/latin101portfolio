@@ -28,5 +28,7 @@ C. Translation
 
 Please translate the passage into idiomatic English.
 
+My translation.
+
 
 
